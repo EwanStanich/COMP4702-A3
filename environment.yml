@@ -1,0 +1,41 @@
+name: COMP3702A3
+channels:
+  - pytorch
+  - conda-forge
+  - defaults
+dependencies:
+  - python=3.10
+  - pip
+  - pytorch
+  - torchvision
+  - torchaudio
+  # - pytorch-cuda=11.8  # REMOVE this for Mac
+  - astroid
+  - box2d-py
+  - cloudpickle
+  - contourpy
+  - cycler
+  - dill
+  - farama-notifications
+  - fonttools
+  - gym
+  - gym-notices
+  - gymnasium
+  - isort
+  - joblib
+  - kiwisolver
+  - matplotlib
+  - mccabe
+  - pandas
+  - pygame
+  - pylint
+  - pyparsing
+  - pytz
+  - scikit-learn
+  - seaborn
+  - swig
+  - threadpoolctl
+  - tomli
+  - tomlkit
+  - typeguard
+  - tzdata
